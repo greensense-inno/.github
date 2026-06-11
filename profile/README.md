@@ -47,8 +47,6 @@ Integrating automation, AI, and analytics to improve efficiency across industria
 
 ### Embedded & IoT
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square)
 ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-00ADEF?style=flat-square)
@@ -106,6 +104,7 @@ We welcome collaboration opportunities with:
 **GREENSENSE INNOVATION AND TECHNOLOGY CO., LTD.**
 
 Website: https://www.greensenseinno.com/
+
 Email: greensenseinno@gmail.com
 
 ---
